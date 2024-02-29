@@ -37,9 +37,12 @@ The curriculum covers the following thematic topics.
   - Man-in-the-Middle (MITM) Attacks
   - Evil Twins
  ``` 
-## 3. Personally identifiable information and card data.
+## 3. Personally identifiable information (PII) and card data.
 > Topics To Cover
-
+```sh
+- Elemetns of PII and card data
+- How PII and card data is monetized
+``` 
 ## 4. WiFi Attacks Demostration.
 > Topics To Cover
 ```sh
