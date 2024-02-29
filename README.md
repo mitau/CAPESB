@@ -43,7 +43,12 @@ ii. WiFi Attack Strategies
 
 ## 4. WiFi Attacks Demostration.
 > Topics To Cover
-
+```sh
+(a) A demonstration of how to detect the presence of rogue access points using a WiFi analyzer.
+(b) A demonstration of how encrypted vs unencrypted network traffic looks like during transmission using Wireshark.
+(c) A demonstration of how evil twins are created using a USB WiFi adapter or WiFi Pineapple kit.
+(d) A demonstration of how a man-in-the-middle attack is staged using Burp Suite application.
+``` 
 ## 5. WiFi system security measures and controls.
 > Topics To Cover
 
