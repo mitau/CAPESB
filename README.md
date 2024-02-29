@@ -14,24 +14,24 @@ The curriculum covers the following thematic topics.
 
 
 ## Basic WiFi architecture.
-> Topics Covered
+> Topics To Cover
 > 
 ## Current WiFi threat landscape.
-> Topics Covered
+> Topics To Cover
 
 ## Personally identifiable information and card data.
-> Topics Covered
+> Topics To Cover
 
 ## Recently documented WiFi attacks.
-> Topics Covered
+> Topics To Cover
 
 ## WiFi system security measures and controls.
-> Topics Covered
+> Topics To Cover
 
 ## Incident handling procedures.
-> Topics Covered
+> Topics To Cover
 
 ## Basic cyber-attack recovery procedures.
-> Topics Covered
+> Topics To Cover
 
 https://www.gnu.org/licenses/gpl-3.0.en.html
