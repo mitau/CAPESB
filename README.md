@@ -43,7 +43,7 @@ The curriculum covers the following thematic topics.
 - Elemetns of PII and card data
 - How PII and card data is monetized
 ``` 
-## 4. WiFi Attacks Demostration.
+## 4. WiFi Attacks Demonstrations.
 > Topics To Cover
 ```sh
 (a) A demonstration of how to detect the presence of rogue access points using a WiFi analyzer.
