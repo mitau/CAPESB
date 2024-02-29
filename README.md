@@ -9,8 +9,7 @@ The curriculum covers the following thematic topics.
 3. Personally identifiable information and card data.
 4. WiFi Attacks Demostration.
 5. WiFi system security measures and controls.
-6. Incident handling procedures.
-7. Basic cyber-attack recovery procedures.
+6. Basic cyber-attack recovery procedures.
 
 
 ## 1. Basic WiFi architecture.
@@ -52,10 +51,7 @@ The curriculum covers the following thematic topics.
 ## 5. WiFi system security measures and controls.
 > Topics To Cover
 
-## 6. Incident handling procedures.
-> Topics To Cover
-
-## 7. Basic cyber-attack recovery procedures.
+## 6. Basic cyber-attack recovery procedures.
 > Topics To Cover
 
 ### License
