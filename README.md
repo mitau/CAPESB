@@ -1,6 +1,6 @@
 # WiFi-Security-Behaviour-Enhancing-Curriculum
 
-Welcome to the WiFi security behaviour enhancing curriculum.
+Welcome to the WiFi security behaviour enhancing curriculum. This curriculum assists an organization enhance WiFi Security behaviour by training users or staff on various concepts established to have influence on user behavior.
 
 The curriculum covers the following thematic topics.
 
