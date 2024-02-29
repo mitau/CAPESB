@@ -34,5 +34,5 @@ The curriculum covers the following thematic topics.
 ## Basic cyber-attack recovery procedures.
 > Topics To Cover
 
-## License
-** GNU GENERAL PUBLIC LICENSE ** https://www.gnu.org/licenses/gpl-3.0.en.html
+### License
+** GNU GENERAL PUBLIC LICENSE ** [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
