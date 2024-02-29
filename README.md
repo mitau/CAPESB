@@ -21,12 +21,14 @@ The curriculum covers the following thematic topics.
 ## Current WiFi threat landscape.
 > Topics To Cover
 1. WiFi Vulneralbilities
+```sh
   - WEP Vulnerabilities
   - WiFi Protected Setup WPS Protocol
   - WPA2 KRACKs Vulnerability
   - FragAttacks vulnerabilities
-  
+ ``` 
 2. WiFI Attack Strategies
+```sh
   - Rogue Access Points
   - WiFi Frequency Jamming Denial of Service (DOS)
   - Sidejacking or Session Hijacking
@@ -34,7 +36,7 @@ The curriculum covers the following thematic topics.
   - MAC Address Spoofing
   - Man-in-the-Middle (MITM) Attacks
   - Evil Twins
-
+ ``` 
 ## Personally identifiable information and card data.
 > Topics To Cover
 
