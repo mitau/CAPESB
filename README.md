@@ -1,6 +1,6 @@
 # WiFi Security Behaviour Enhancing Curriculum
 
-Welcome to the WiFi security behaviour enhancing curriculum. This curriculum assists an organization enhance WiFi Security behaviour by training users or staff on various concepts established to have influence on user behavior.
+Welcome to the WiFi security behaviour enhancing curriculum. This curriculum can assist an organization enhance WiFi Security behaviour by training users or staff on various WiFi concepts which have been established to influence positive user behavior.
 
 The curriculum covers the following thematic topics.
 
@@ -15,9 +15,25 @@ The curriculum covers the following thematic topics.
 
 ## Basic WiFi architecture.
 > Topics To Cover
-> 
+- Overview of WiFi Architecture
+- WiFi Security Architecture
+  
 ## Current WiFi threat landscape.
 > Topics To Cover
+1. WiFi Vulneralbilities
+  - WEP Vulnerabilities
+  - WiFi Protected Setup WPS Protocol
+  - WPA2 KRACKs Vulnerability
+  - FragAttacks vulnerabilities
+  
+2. WiFI Attack Strategies
+  - Rogue Access Points
+  - WiFi Frequency Jamming Denial of Service (DOS)
+  - Sidejacking or Session Hijacking
+  - Packet Sniffing
+  - MAC Address Spoofing
+  - Man-in-the-Middle (MITM) Attacks
+  - Evil Twins
 
 ## Personally identifiable information and card data.
 > Topics To Cover
