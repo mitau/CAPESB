@@ -20,6 +20,7 @@ The curriculum covers the following thematic topics.
   
 ## 2. Current WiFi threat landscape.
 > Topics To Cover
+
 i. WiFi Vulneralbilities
 ```sh
   - WEP Vulnerabilities
