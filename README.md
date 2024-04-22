@@ -61,7 +61,7 @@ The curriculum covers the following thematic topics.
 ``` 
 ## 5. WiFi system security measures and controls.
 > Topics To Cover
-```shc
+```sh
 (a) Strategies for defending against MitM attacks.
 (b) Best practices for securing WiFi networks such as enabling network segmentation, using strong encryption and implementing MAC address filtering.
 (c) Discuss the importance of keeping application software and device firmwares up to date.
@@ -69,6 +69,28 @@ The curriculum covers the following thematic topics.
 ```
 ## 6. Basic cyber-attack recovery procedures.
 > Topics To Cover
+
+If any personal or confidential information was inadvertently compromised in a WiFi attack, take appropriate steps to mitigate the risk of exposure and for organizations, ensure you comply with data breach notification requirements in line with local regulations such as GDPR, Data Protection Act(2019).
+
+(a) Immediate Containment Measures:
+```sh
+  i.    Disconnect the affected devices from the network as soon as suspicious activity or a confirmed attack is detected.
+  ii.   Shut down any compromised devices to prevent further unauthorized access.
+  iii.  If required, physically disconnect the affected networking devices from the network to isolate the attack.
+  iv.   Change WiFi network passwords and SSIDs to revoke access for unauthorized users.
+  v.    Implement network segmentation to isolate compromised segments.
+  vi.   Disable any compromised access points or routers and replace them with secure, unaffected devices.
+```
+(b) Long term measures:
+```sh
+  i.    Conduct a forensic investigation to establish the extent and the nature of compromise.
+  ii.   Identify the vulnerabilities that were exploited and lead to a breach.
+  iii.  Apply patches to vulnerabilities found such as installing updates or upgrades on applications and firmware. 
+  iv.   Enable WiFi encryption by implementing WPA2/WPA3 with strong authentication key.
+  v.    Enable monitoring of the WiFi infrastructure by implementing intrusion detection & prevention systems.
+  vi.   Implement WiFi network segmentation to isolate sensitive networks.
+  vii.  Enable access control measure by implementing MAC filtering.
+```
 
 ### License
 [CC BY](https://creativecommons.org/licenses/by/4.0/)
