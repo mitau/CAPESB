@@ -45,7 +45,7 @@ The curriculum covers the following thematic topics.
 ``` 
 ## 4. WiFi Attacks Demonstrations.
 > Topics To Cover
-```shc
+```sh
 (a) Introduction to tools commonly used for WiFi MitM attacks (e.g., Wireshark, Ettercap, Bettercap).
 (b) Hands-on demonstrations of how these tools work and their capabilities.
 (c) Explanation of ARP spoofing and DNS spoofing techniques.
@@ -58,7 +58,11 @@ The curriculum covers the following thematic topics.
 ``` 
 ## 5. WiFi system security measures and controls.
 > Topics To Cover
-
+```shc
+(a) Strategies for defending against MitM attacks.
+(b) Best practices for securing WiFi networks such as enabling network segmentation, using strong encryption and implementing MAC address filtering.
+(c) Discuss the importance of keeping application software and device firmwares up to date.
+```
 ## 6. Basic cyber-attack recovery procedures.
 > Topics To Cover
 
