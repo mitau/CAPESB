@@ -14,34 +14,36 @@ The curriculum covers the following thematic topics.
 
 ## 1. Basic WiFi architecture.
 > Topics To Cover
-- Overview of WiFi Architecture
-- WiFi Security Architecture
-  
+```sh
+(a) Overview of WiFi Architecture
+(b) WiFi encryption and authentication.
+(c) Understanding the different types of WiFi networks (e.g., WEP, WPA, WPA2, WPA3).
+``` 
 ## 2. Current WiFi threat landscape.
 > Topics To Cover
 
 (a) WiFi Vulneralbilities
 ```sh
-  - WEP Vulnerabilities
-  - WiFi Protected Setup WPS Protocol
-  - WPA2 KRACKs Vulnerability
-  - FragAttacks vulnerabilities
+  i.   WEP Vulnerabilities
+  ii.  WiFi Protected Setup WPS Protocol
+  iii. WPA2 KRACKs Vulnerability
+  iv.  FragAttacks vulnerabilities
  ``` 
 (b) WiFi Attack Strategies
 ```sh
-  - Rogue Access Points
-  - WiFi Frequency Jamming Denial of Service (DOS)
-  - Sidejacking or Session Hijacking
-  - Packet Sniffing
-  - MAC Address Spoofing
-  - Man-in-the-Middle (MITM) Attacks
-  - Evil Twins
+  i.   Rogue Access Points
+  ii.  WiFi Frequency Jamming Denial of Service (DOS)
+  iii. Sidejacking or Session Hijacking
+  iv.  Packet Sniffing
+  v.   MAC Address Spoofing
+  vi.  Man-in-the-Middle (MITM) Attacks
+  vii. Evil Twins
  ``` 
 ## 3. Personally identifiable information (PII) and card data.
 > Topics To Cover
 ```sh
-- Elemetns of PII and card data
-- How PII and card data is monetized
+(a) Elemetns of PII and card data
+(b) How PII and card data is monetized
 ``` 
 ## 4. WiFi Attacks Demonstrations.
 > Topics To Cover
