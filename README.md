@@ -65,6 +65,7 @@ The curriculum covers the following thematic topics.
 (a) Strategies for defending against MitM attacks.
 (b) Best practices for securing WiFi networks such as enabling network segmentation, using strong encryption and implementing MAC address filtering.
 (c) Discuss the importance of keeping application software and device firmwares up to date.
+(d) Discuss the importance of securely storing and encrypting data especially while in transit to prevent unauthorized access.
 ```
 ## 6. Basic cyber-attack recovery procedures.
 > Topics To Cover
