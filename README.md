@@ -12,14 +12,14 @@ The curriculum covers the following thematic topics.
 6. Basic cyber-attack recovery procedures.
 
 
-## 1. Basic WiFi architecture.
+## 1. Basic WiFi Architecture.
 > Topics To Cover
 ```sh
 (a) Overview of WiFi Architecture
 (b) WiFi encryption and authentication.
 (c) Understanding the different types of WiFi networks (e.g., WEP, WPA, WPA2, WPA3).
 ``` 
-## 2. Current WiFi threat landscape.
+## 2. Current WiFi Threat Landscape.
 > Topics To Cover
 
 (a) WiFi Vulneralbilities
@@ -39,7 +39,7 @@ The curriculum covers the following thematic topics.
   vi.  Man-in-the-Middle (MITM) Attacks
   vii. Evil Twins
  ``` 
-## 3. Personally identifiable information (PII) and card data.
+## 3. Personally Identifiable Information (PII) and Card Data.
 > Topics To Cover
 ```sh
 (a) Elements of PII and card data
@@ -59,7 +59,7 @@ The curriculum covers the following thematic topics.
 (i) A demonstration of a man-in-the-middle WiFi attack using Bettercap solution.
 
 ``` 
-## 5. WiFi system security measures and controls.
+## 5. WiFi System Security Measures and Controls.
 > Topics To Cover
 ```sh
 (a) Strategies for defending against MitM attacks.
@@ -67,7 +67,7 @@ The curriculum covers the following thematic topics.
 (c) Discuss the importance of keeping application software and device firmwares up to date.
 (d) Discuss the importance of securely storing and encrypting data especially while in transit to prevent unauthorized access.
 ```
-## 6. Basic cyber-attack recovery procedures.
+## 6. Basic Cyber-attack Recovery Procedures.
 > Topics To Cover
 
 If any personal or confidential information was inadvertently compromised in a WiFi attack, take appropriate steps to mitigate the risk of exposure and most importantly for organizations ensure you comply with data breach notification requirements in line with local regulations such as GDPR, Data Protection Act(2019).
@@ -81,7 +81,7 @@ If any personal or confidential information was inadvertently compromised in a W
   v.    Implement network segmentation to isolate compromised segments.
   vi.   Disable any compromised access points or routers and replace them with secure, unaffected devices.
 ```
-(b) Long term measures:
+(b) Long-term Containment Measures:
 ```sh
   i.    Conduct a forensic investigation to establish the extent and the nature of compromise.
   ii.   Identify the vulnerabilities that were exploited and lead to a breach.
