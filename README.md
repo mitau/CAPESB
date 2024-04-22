@@ -70,7 +70,7 @@ The curriculum covers the following thematic topics.
 ## 6. Basic cyber-attack recovery procedures.
 > Topics To Cover
 
-If any personal or confidential information was inadvertently compromised in a WiFi attack, take appropriate steps to mitigate the risk of exposure and for organizations, ensure you comply with data breach notification requirements in line with local regulations such as GDPR, Data Protection Act(2019).
+If any personal or confidential information was inadvertently compromised in a WiFi attack, take appropriate steps to mitigate the risk of exposure and most importantly for organizations ensure you comply with data breach notification requirements in line with local regulations such as GDPR, Data Protection Act(2019).
 
 (a) Immediate Containment Measures:
 ```sh
