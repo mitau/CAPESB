@@ -49,11 +49,12 @@ The curriculum covers the following thematic topics.
 (a) Introduction to tools commonly used for WiFi MitM attacks (e.g., Wireshark, Ettercap, Bettercap).
 (b) Hands-on demonstrations of how these tools work and their capabilities.
 (c) Explanation of ARP spoofing and DNS spoofing techniques.
-(d) Demonstration of how to detect the presence of rogue access points using Wireshark WiFi analyzer.
-(e) A demonstration of how encrypted vs unencrypted network traffic looks like during transmission using Wireshark.
-(f) A demonstration of how evil twins are created using a USB WiFi adapter or WiFi Pineapple kit.
-(g) A demonstration of a man-in-the-middle website attack using Burp Suite application.
-(g) A demonstration of a man-in-the-middle WiFi attack using Bettercap solution.
+(d) Demonstration of how to detect the presence of rogue access points using WiFi analyzers.
+(e) Demonstration of how encrypted vs unencrypted network traffic appears in transit using Wireshark.
+(f) Emphasise on the impact of submitting sensitive and PII data such as login credentials or card transaction details on a webiste with no HTTPS, use case studies or examples.
+(g) A demonstration of how evil twins are created using a USB WiFi adapter or WiFi Pineapple kit.
+(h) A demonstration of a man-in-the-middle website attack using Burp Suite application.
+(i) A demonstration of a man-in-the-middle WiFi attack using Bettercap solution.
 
 ``` 
 ## 5. WiFi system security measures and controls.
