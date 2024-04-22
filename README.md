@@ -42,7 +42,7 @@ The curriculum covers the following thematic topics.
 ## 3. Personally identifiable information (PII) and card data.
 > Topics To Cover
 ```sh
-(a) Elemetns of PII and card data
+(a) Elements of PII and card data
 (b) How PII and card data is monetized
 ``` 
 ## 4. WiFi Attacks Demonstrations.
