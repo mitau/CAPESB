@@ -48,7 +48,7 @@ The curriculum covers the following thematic topics.
 ## 4. WiFi Attacks Demonstrations.
 > Topics To Cover
 ```sh
-(a) Introduction to tools commonly used for WiFi MitM attacks (e.g., Wireshark, Ettercap, Bettercap).
+(a) Introduction to tools commonly used for WiFi MitM attacks (e.g., Wireshark, Ettercap, Bettercap, Aircrack-ng, Airgeddon).
 (b) Hands-on demonstrations of how these tools work and their capabilities.
 (c) Explanation of ARP spoofing and DNS spoofing techniques.
 (d) Demonstration of how to detect the presence of rogue access points using WiFi analyzers.
